@@ -38,3 +38,7 @@ MyPointerAnalysis: base directory
     ----WholeProgramTransformer.java    an engine to start the analysis
 
 ```
+
+## Note
+I have referenced the code from 
+https://github.com/yuanyehome/PointerAnalysis and https://github.com/rivalak/pointer_analysis. Their code is amazing!!!
